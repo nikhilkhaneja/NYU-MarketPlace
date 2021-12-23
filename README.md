@@ -4,4 +4,7 @@
 ### In accordance with the Final Project for CS-GY 9223 Cloud Computing Big Data Systems
 ***
 #### Contributors:  
-  ▫️ #### NIK
+  ▫️ NIKHIL KISHAN KHANEJA (nkk6190@nyu.edu)
+  ▫️ PRATEEK DESAI (pm3278@nyu.edu)
+  ▫️ ADVAIT NENE (arn8059@nyu.edu)
+***
