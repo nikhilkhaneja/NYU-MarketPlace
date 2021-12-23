@@ -47,7 +47,7 @@ https://marvelapp.com/project/5933309/screen/83064685
 #### ▫️ PROJECT DEMO VIDEO:
 
 #### ▫️ PROJECT SLIDES: 
-https://docs.google.com/presentation/d/1279WubA3rn1qFNdHdOzKcAdB1DnUvePqxrrseMNpS8A/edit#slide=id.p4
+https://docs.google.com/presentation/d/1279WubA3rn1qFNdHdOzKcAdB1DnUvePqxrrseMNpS8A/edit#slide=id.p1
 
 #### ▫️ PROJECT GOOGLE DOCS PROTOYPE LINK: 
 https://docs.google.com/document/d/1vXaLJyWrMVqArzW4zEk3PXwFXKOp7MQfy8RA7U9Am_4/edit
