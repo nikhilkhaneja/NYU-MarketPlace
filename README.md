@@ -14,4 +14,4 @@
 The idea is to build a marketplace for NYU students. The two roles that the user can take are that of a Buyer and a Seller. The buyer can login, search for the items to buy, and bid on the items on the bidding market. The seller can post the item and set a price or can put it on the bidding market (as his preference).
 ***
 ### ARCHITECTURE DIAGRAM:
-![alt_text]
+![alt_text] https://github.com/nikhilkhaneja/NYU-MarketPlace/blob/main/Architexture_Diagram.png
