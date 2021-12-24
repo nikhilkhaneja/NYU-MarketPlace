@@ -13,6 +13,19 @@
 ### PROJECT DESCRIPTION:
 The idea is to build a marketplace for NYU students. The two roles that the user can take are that of a Buyer and a Seller. The buyer can login, search for the items to buy, and bid on the items on the bidding market. The seller can post the item and set a price or can put it on the bidding market (as his preference).
 ***
+### USEFUL LINKS:
+
+#### ▫️ PROJECT PROTOTYPE: 
+https://marvelapp.com/project/5933309/screen/83064685 
+
+#### ▫️ PROJECT DEMO VIDEO:
+
+#### ▫️ PROJECT SLIDES: 
+https://docs.google.com/presentation/d/1279WubA3rn1qFNdHdOzKcAdB1DnUvePqxrrseMNpS8A/edit#slide=id.p1
+
+#### ▫️ PROJECT GOOGLE DOCS PROTOYPE LINK: 
+https://docs.google.com/document/d/1vXaLJyWrMVqArzW4zEk3PXwFXKOp7MQfy8RA7U9Am_4/edit
+***
 ### ARCHITECTURE DIAGRAM:
 ![alt_text](https://github.com/nikhilkhaneja/NYU-MarketPlace/blob/main/Architexture_Diagram.png)
 ***
@@ -39,17 +52,4 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 #### ▫️ AWS Cognito:
 Amazon CloudWatch is a monitoring and observability service built for DevOps engineers, developers, site reliability engineers (SREs), IT managers, and product owners. CloudWatch provides you with data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events. 
 ***
-### USEFUL LINKS:
-
-#### ▫️ PROJECT PROTOTYPE: 
-https://marvelapp.com/project/5933309/screen/83064685 
-
-#### ▫️ PROJECT DEMO VIDEO:
-
-#### ▫️ PROJECT SLIDES: 
-https://docs.google.com/presentation/d/1279WubA3rn1qFNdHdOzKcAdB1DnUvePqxrrseMNpS8A/edit#slide=id.p1
-
-#### ▫️ PROJECT GOOGLE DOCS PROTOYPE LINK: 
-https://docs.google.com/document/d/1vXaLJyWrMVqArzW4zEk3PXwFXKOp7MQfy8RA7U9Am_4/edit
-
 
