@@ -19,9 +19,10 @@ The idea is to build a marketplace for NYU students. The two roles that the user
 https://marvelapp.com/project/5933309/screen/83064685 
 
 #### ▫️ PROJECT DEMO VIDEO:
+https://www.youtube.com/watch?v=we5SGlkk9Rw
 
 #### ▫️ PROJECT SLIDES: 
-https://docs.google.com/presentation/d/1279WubA3rn1qFNdHdOzKcAdB1DnUvePqxrrseMNpS8A/edit#slide=id.p1
+https://docs.google.com/presentation/d/1isDaPyFpA5S_lvWS7prtn4uKTMpi7oXdlaHXetR3euI/edit#slide=id.p1
 
 #### ▫️ PROJECT GOOGLE DOCS PROTOYPE LINK: 
 https://docs.google.com/document/d/1vXaLJyWrMVqArzW4zEk3PXwFXKOp7MQfy8RA7U9Am_4/edit
